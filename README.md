@@ -9,7 +9,7 @@ Investigates the potential of encrypted data processing in cybersecurity applica
 Provides code snippets, experiments, and insights into combining encryption and machine learning for improved data security.
 Installation
 Clone the repository to your local machine:
-git clone https://github.com/your_username/homomorphic-encryption-cybersecurity.git
+git clone https://github.com/Isuleim/homomorphic-encryption-cybersecurity.git
 Install the required Python packages:
 pip install phe  # For homomorphic encryption
 # Add other necessary packages here
